@@ -9,7 +9,8 @@ const Cours_Name_Data=[
     image:'https://www.researchgate.net/publication/27611549/figure/fig1/AS:310115996585984@1450948823387/Schema-dun-systeme-de-regulation.png',
     link:'#',
 },{
-    id:'1',
+    id:'1',    id:'2',
+
     cours:"Traitement de l'air",
     teatcher:'chaibi',
     description:"Le traitement de l'air qu'on appelle aussi purification de l'air regroupe l'ensemble des procédés et techniques permettant d'obtenir de l'air purifié et assaini des émanations chimiques toxiques de l'air, de la pollution atmosphérique, des particules volatiles intérieures nocives et des odeurs.",
