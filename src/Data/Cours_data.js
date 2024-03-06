@@ -5,20 +5,14 @@ const Cours_Data = [
     Freanch: `la relation de Surface 
      DE GAIN CYCLAIRE: s=π*D*D/4 
      DE GAIN RECTONGULAIRE : s = l x L`,
-    Arabic: "العربية لغةٌ رسمية في كل دول الوطن العربي إضافة إلى كونها لغ",
-    image:
-      "",
-    Freanch: "heloo world how are you bro i hope are you fine",
-    Arabic: "العربية لغةٌ رسمية في كل دول الوطن العربي إضافة إلى كونها لغ",
-    image:
-      "https://preview.redd.it/nayqnqi3cwec1.jpeg?width=640&crop=smart&auto=webp&s=17f9cd07d81ff1844a89c4b3b437a0ab2085b56a",
+    Arabic: "RECTONGULAIRE:s = l x L | CYCLAIRE:s=π*D*D/4",
+    image:"",
   },
   {
     id: "1",
     title: "Réseau Aéraulique",
-    Freanch:
-      "La masse volumique : Qv = s * v  | Qv => m3/s",
-    Arabic: "heloo world how are you bro i xxxx are you fine",
+    Freanch:"La masse volumique : Qv = s * v  | Qv => m3/s",
+    Arabic: "Qv = s * v  | Qv => m3/s",
     image: "",
   },
   {
@@ -26,7 +20,7 @@ const Cours_Data = [
     title: "Réseau Aéraulique",
     Freanch:
       "Vitess Reel v = Qv * 4 / π * D*D",
-    Arabic: "heloo world how are you bro i xxxx are you fine",
+    Arabic: "v = Qv * 4 / π * D*D",
     image: "",
   },
   {
@@ -34,23 +28,36 @@ const Cours_Data = [
     title: "Réseau Aéraulique",
     Freanch:
       "Hours <-> Secends : s = h*3600 | h = s/3600",
-    Arabic: "heloo world how are you bro i xxxx are you fine",
+    Arabic: "Hours <-> Secends s = h*3600",
     image: "",
   },
   {
     id: "4",
     title: "Réseau Aéraulique",
-    Freanch:
-      "Pa <-> mmCE :  Pa = mmCE*10 | mmCE = Pa/10",
-    Arabic: "heloo world how are you bro i xxxx are you fine",
+    Freanch:"Pa <-> mmCE :  Pa = mmCE*10 | mmCE = Pa/10",
+    Arabic: "Pa <-> mmCE :  Pa = mmCE*10",
     image: "",
   },
 
   {
     id: "5",
     title: "Réseau Aéraulique",
-    Freanch: "heloo world how are you bro i hope are you fine",
-    Arabic: "heloo world how are you bro i hope are you fine",
+    Freanch: "Perte de charge : LINER  ▲P = J * L ",
+    Arabic: "L : longeur ",
+    image: "",
+  },
+  {
+    id: "6",
+    title: "Réseau Aéraulique",
+    Freanch: "Perte de charge : SINGULAIR  ▲P = 1/2 * ρ * V * V * ε ",
+    Arabic: "ρ : mass de volumique | ε : epsilon | ",
+    image: "",
+  },
+  {
+    id: "7",
+    title: "Réseau Aéraulique",
+    Freanch: "Total de perte de charge ▲P = ▲P(L) + ▲P(S) ",
+    Arabic: "  ▲P(L) : LINER , ▲P(S) : SINGULAIR ",
     image: "",
   },
   // },{
