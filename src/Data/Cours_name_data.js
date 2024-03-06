@@ -8,6 +8,7 @@ const Cours_Name_Data=[
     description:"La régulation regroupe l'ensemble des techniques utilisées visant à contrôler une grandeur physique soumise à des perturbations. Cette grandeur physique est alors appelée grandeur réglée",
     image:'https://www.researchgate.net/publication/27611549/figure/fig1/AS:310115996585984@1450948823387/Schema-dun-systeme-de-regulation.png',
     link:'#',
+    // cc
 },{
     id:'1',    id:'2',
 
