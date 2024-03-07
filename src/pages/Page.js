@@ -87,7 +87,7 @@ const Page = () => {
             {isData ?(
               isData.map((data) => (
                 <div key={data.id} className="iteam">
-                  <h3>{data.title}</h3>
+                  <h3>{data.title2 ? `${data.title2}` : `${data.title}`}</h3>
                   {!data.image == "" ? (
                     <img src={data.image} id="image-iteam" alt="" />
                   ) : (
