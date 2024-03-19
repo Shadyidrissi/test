@@ -10,7 +10,7 @@ const Cours_Name_Data=[
     link:'#',
     // cc
 },{
-    id:'1',    id:'2',
+    id:'1', 
 
     cours:"Traitement de l'air",
     teatcher:'chaibi',
@@ -36,7 +36,7 @@ const Cours_Name_Data=[
 //     link:'#',
 // }
 ,{
-    id:3,
+    id:'3',
     cours:'Procedes De Climatisation',
     teatcher:'chaibi',
     description:"Le fonctionnement d'un climatiseur est basé sur le changement de phase d'un fluide frigorigène : dans l'évaporateur, le fluide capte la chaleur dans l'air du local et s'évapore; dans le condenseur, le fluide redevient liquide car il est refroidi par l'air extérieur.",

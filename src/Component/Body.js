@@ -60,7 +60,10 @@ function Cours() {
               <h5>
                 {i.description}
                 <span>
-                  <a href={`/cours`}> ENTERY</a>{" "}
+                  <a 
+                  // href={`/cours`}
+                  href={`/cours/${i.cours}`}
+                  > ENTERY </a>{" "}
                 </span>
               </h5>
             </div>
