@@ -12,6 +12,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap';
 import Contact_page from "./Component/Contact_page";
 import Exempls from "./pages/Exempls";
+import CorusPDF from "./pages/CorusPDF";
 // import Button from '@mui/material/Button';
 // import ButtonGroup from '@mui/material/ButtonGroup';
 // import Box from '@mui/material/Box';
@@ -39,6 +40,7 @@ function App() {
           <Route path="/cours" element={<Page />} />
           <Route path="/contact" element={<Contact_page/>} />
           <Route path="/exempls" element={<Exempls/>} />
+          <Route path="/cours-PDF" element={<CorusPDF/>} />
         {/* <Home/> */}
       </Routes>
     </BrowserRouter>

@@ -1225,3 +1225,40 @@ nav {
   color: #999999;
 }
 /* ? END Contact US */
+/* ? Download Page */
+.div-pdf-download{
+  width: 70%;
+  margin: 0 15% 0 15%;
+  height: 100%;
+}
+ h2{
+  align-items: center;
+  display: flex;
+ }
+#pdf-download{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #02434b;
+  color: white;
+  margin: 20px 10px 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+#icons-download{
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  width: 20%;
+  margin-right: 10px;
+}
+#icons-download li svg {
+  fill: white; 
+  cursor: pointer;
+}
+#icons-download li svg:hover{
+  fill:#647d87; 
+}
+/* ? END Download Page  */

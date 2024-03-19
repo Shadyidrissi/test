@@ -668,13 +668,15 @@ const Cours_Data = [
 //     Freanch: ``,
 //     Arabic: ``,
 //     image: "",
-//   },
-//   {
-//     id: "56",
-//     title: "Traitement de l'air",
-//     Freanch: ``,
-//     Arabic: ``,
-//     image: "",
-//   }
+// }
+  
+  ,{
+    id: "56",
+    title: "Procedes De Climatisation",
+    title2:'design par "j" le rapport',
+    Freanch: `j=hs-he / Xs-Xe`,
+    Arabic: `h => kj/kgas , X => g/kgas`,
+    image: "",
+  }
 ];
 export default Cours_Data;

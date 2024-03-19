@@ -140,6 +140,11 @@ function Nav(e) {
                     EXEMPLS
                   </a>
                 </li>
+                <li className="nav-item">
+                  <a className="nav-link " href="/cours-PDF">
+                    Cours PDF
+                  </a>
+                </li>
               </ul>
             </div>
           ) : (
