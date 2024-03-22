@@ -1030,6 +1030,7 @@ nav {
   position: relative;
   justify-content: center;
   flex-wrap: wrap;
+  min-height: 70vh;
 }
 
 .iteam {
@@ -1083,6 +1084,7 @@ nav {
   justify-content: center;
   position: fixed;
   z-index: 99;
+  bottom: 34px;
 }
 
 .button button {

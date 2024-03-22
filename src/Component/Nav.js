@@ -142,7 +142,7 @@ function Nav(e) {
                 </li>
                 <li className="nav-item">
                   <a className="nav-link " href="/cours-PDF">
-                    Cours PDF
+                    PDF
                   </a>
                 </li>
               </ul>

@@ -1,15 +1,15 @@
 const Cours_Name_Data=[
-{
+// {
 
-    id:'0',
+//     id:'0',
 
-    cours:'Regulation',
-    teatcher:'chaoiki',
-    description:"La régulation regroupe l'ensemble des techniques utilisées visant à contrôler une grandeur physique soumise à des perturbations. Cette grandeur physique est alors appelée grandeur réglée",
-    image:'https://www.researchgate.net/publication/27611549/figure/fig1/AS:310115996585984@1450948823387/Schema-dun-systeme-de-regulation.png',
-    link:'#',
-    // cc
-},{
+//     cours:'Regulation',
+//     teatcher:'chaoiki',
+//     description:"La régulation regroupe l'ensemble des techniques utilisées visant à contrôler une grandeur physique soumise à des perturbations. Cette grandeur physique est alors appelée grandeur réglée",
+//     image:'https://www.researchgate.net/publication/27611549/figure/fig1/AS:310115996585984@1450948823387/Schema-dun-systeme-de-regulation.png',
+//     link:'#',
+// }
+,{
     id:'1', 
 
     cours:"Traitement de l'air",

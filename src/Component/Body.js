@@ -62,7 +62,7 @@ function Cours() {
                 <span>
                   <a 
                   // href={`/cours`}
-                  href={`/cours/${i.cours}`}
+                  href={`/cours/${encodeURIComponent(i.cours)}`}
                   > ENTERY </a>{" "}
                 </span>
               </h5>
