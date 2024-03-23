@@ -12,6 +12,7 @@ import ReactImageZoom from "react-image-zoom";
 const Page = () => {
   const { title } = useParams();
   const filteredData = Cours_Data.filter((item) => item.title === title);
+  const showtraduction =setCours(title)
   // const  {id}  = useParams();
   const [cours, setCours] = useState("");
   const [isData, setData] = useState([]);
@@ -101,6 +102,7 @@ const Page = () => {
                 )}
                 <div className="princip">
                   <p>{traduction ? data.Freanch : data.Arabic}</p>
+                  {showtraduction}
                 </div>
               </div>
             ))
